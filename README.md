@@ -90,6 +90,9 @@ Students can directly communicate with the teachers to clear up any confusion th
 Teachers can choose to add a text file explaining the approach(es) to solve the given Lab tasks. The students can view them after the Lab ends to get an idea about how they can solve the problems.
 ![Admin Tutorial](featuresDemo/AdminTutorial.png)
 
+## Documentation:
+Generate the respective Javadocs of the Server, Admin and User modules.
+
 ## Resources:
 ### Tutorials:
 * [Basic Java Tutorial by Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34&t=6991s)

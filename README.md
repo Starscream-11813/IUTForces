@@ -2,7 +2,7 @@
 IUTForces is an offline programming judge application made as the Lab project for CSE 4402: Visual Programming Lab and CSE 4408: System Analysis and Design Lab.
 
 ![Main Features](https://img.shields.io/badge/Main%20features-Complete-brightgreen)
-![Overall Status](https://img.shields.io/badge/Status-Work--in--progress-yellow)
+[](![Overall Status](https://img.shields.io/badge/Status-Work--in--progress-yellow))
 ![IDE](https://img.shields.io/badge/IDE-Apache%20NetBeans%20IDE%2012.0-blue)
 ![GUI Widget Toolkit](https://img.shields.io/badge/GUI%20Widget%20Toolkit-Java%20Swing-red)
 ![Database](https://img.shields.io/badge/Database-SQLite-green)

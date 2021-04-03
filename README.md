@@ -11,6 +11,9 @@ IUTForces is an offline programming judge application made as the Lab project fo
 ![License](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-green)
 ![Grade](https://img.shields.io/badge/Grade-Not%20Yet%20Graded-lightgrey)
 
+## Notice
+This project is a modification of [IUT Offline Judge (IUTOJ)](https://github.com/Ardent-Builds/IUTOJ) developed by our upperclassmen [Kawsar Ahmed](https://github.com/k4w54r) and [Asaduzzaman Herok](https://github.com/ASADUZZAMAN-HEROK).
+
 ## Team Members:
 * Syed Rifat Raiyan- 180041205
 * Ishrak Hossain- 180041218

@@ -60,7 +60,7 @@ Students can create a new User account or login to an already existing one.
 ![User Signup](featuresDemo/UserSignup.png)
 
 ### View Problem Statement:
-Students can click on the Problem Title ot Problem ID of a problem listed on the Problems tab and view its Problem Statement, Time Limit and Memory Limit.
+Students can click on the Problem Title or Problem ID of a problem listed on the Problems tab and view its Problem Statement, Time Limit and Memory Limit.
 ![User Problem Display](featuresDemo/UserProblemDisplay.png)
 
 ### Submit Solution:

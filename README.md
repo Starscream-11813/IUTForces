@@ -9,7 +9,7 @@ IUTForces is an offline programming judge application made as the Lab project fo
 ![GUI Widget Toolkit](https://img.shields.io/badge/GUI%20Widget%20Toolkit-Java%20Swing-red)
 ![Database](https://img.shields.io/badge/Database-SQLite-green)
 ![License](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-green)
-![Grade](https://img.shields.io/badge/Grade-Not%20Yet%20Graded-lightgrey)
+![Grade](https://img.shields.io/badge/Grade-A%2B-lightgrey)
 
 ## Notice
 This project is a modification of [IUT Offline Judge (IUTOJ)](https://github.com/Ardent-Builds/IUTOJ) developed by our upperclassmen [Kawsar Ahmed](https://github.com/k4w54r) and [Asaduzzaman Herok](https://github.com/ASADUZZAMAN-HEROK).
